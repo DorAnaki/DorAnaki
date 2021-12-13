@@ -27,9 +27,9 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 [1]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVwxQnpdbNgtzhpdWtDNJLvfWrcjBlrrQNLlZQSSnPqQNDVCZZjSWvKXfDRTvNnmQzDFg
 [2]:https://www.linkedin.com/in/dor-anaki-596504201/
-[3]:python
-[4]:sql
-[5]:java
+[3]:https://www.python.org/
+[4]:https://www.mysql.com/
+[5]:https://www.java.com/en/
 [6]:scikit-learn
 [7]:tensorflow
 
