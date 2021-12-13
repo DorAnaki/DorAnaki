@@ -16,7 +16,11 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 **Languages and Tools:**
 
-[![python](https://user-images.githubusercontent.com/91745514/145735106-f50da9fd-083e-467f-9199-27992dfadf7f.png)][3][![sql-server](https://user-images.githubusercontent.com/91745514/145735137-8ae37261-f363-4256-a55a-7790d2b9852f.png)][4] ![java](https://user-images.githubusercontent.com/91745514/145735176-cce740e9-1316-442b-b282-92c76a6859d5.png)[![scikit-learn](https://user-images.githubusercontent.com/91745514/145735211-4cb8beb1-1966-4316-9798-162babac274d.png)][6][![tensorflow](https://user-images.githubusercontent.com/91745514/145735243-52da7352-e808-4fdd-aae5-1330d320c82d.png)][4]
+[![python](https://user-images.githubusercontent.com/91745514/145735106-f50da9fd-083e-467f-9199-27992dfadf7f.png)][3]
+[![mysql](https://user-images.githubusercontent.com/91745514/145889491-5bc61e07-6f13-4fd8-a741-993d228f6fd5.png)][4]
+[![java](https://user-images.githubusercontent.com/91745514/145735176-cce740e9-1316-442b-b282-92c76a6859d5.png)][5]
+[![scikit-learn](https://user-images.githubusercontent.com/91745514/145735211-4cb8beb1-1966-4316-9798-162babac274d.png)][6]
+[![tensorflow](https://user-images.githubusercontent.com/91745514/145735243-52da7352-e808-4fdd-aae5-1330d320c82d.png)][7]
 
 
 
