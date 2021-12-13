@@ -1,15 +1,20 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a Data Scientist and Data Analyst passionate about bringing my teamwork skills and curiosity to deliver valuable business results. 
+
+Primarily, I'm working on Machine Learning and analytic projects. My focus is on neuro-network for computer vision, time forecasting and XXX.
+
+Constantly improving skills in SQL and Python is part of my life.
+
+I'm searching for help in finding exciting high-tech job opportunities. If you require any further information on my projects or want to share your opinion, feel free to contact me. 
+Contact me:
+LinkedIn or Email.
+
+Language:
+
+
+Tools:
 
 
 **Contact me at:**
