@@ -30,8 +30,8 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 [3]:https://www.python.org/
 [4]:https://www.mysql.com/
 [5]:https://www.java.com/en/
-[6]:scikit-learn
-[7]:tensorflow
+[6]:https://scikit-learn.org/
+[7]:https://www.tensorflow.org/
 
 
 
