@@ -3,7 +3,7 @@
 
 I'm a Data Scientist and Data Analyst, passionate about bringing my teamwork skills and curiosity to deliver valuable business results. 
 
-Primarily, I'm working on Machine Learning and analytic projects. My focus is on neuro-network for computer vision, time forecasting and XXX.
+Primarily, I'm working on Machine Learning and analytic projects. My focus is on neuro-network for computer vision, time forecasting and unsupervised learning.
 
 Constantly improving skills in SQL and Python is part of my life.
 
