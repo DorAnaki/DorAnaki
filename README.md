@@ -25,7 +25,8 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 
 
-[1]: http://www.gmail.com/your_contact_info
+[1]: http://www.gmail.com/anakidor@gmail.com
+
 [2]: https://www.linkedin.com/in/your_contact_info
 [3]:python
 [4]:sql
