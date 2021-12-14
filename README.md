@@ -1,4 +1,4 @@
-![baner4](https://user-images.githubusercontent.com/91745514/145908818-3c050634-57a3-4897-9fbf-45132792c3be.jpg)
+![baner5](https://user-images.githubusercontent.com/91745514/145909085-63a2726f-cffd-4320-807f-c1acd67f2440.jpg)
 
 
 
@@ -29,10 +29,6 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 
 
-
-
-
-
 [1]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVwxQnpdbNgtzhpdWtDNJLvfWrcjBlrrQNLlZQSSnPqQNDVCZZjSWvKXfDRTvNnmQzDFg
 [2]:https://www.linkedin.com/in/dor-anaki-596504201/
 [3]:https://www.python.org/
@@ -40,13 +36,3 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 [5]:https://www.java.com/en/
 [6]:https://scikit-learn.org/
 [7]:https://www.tensorflow.org/
-
-
-
-
-
-
-
-
-
-
