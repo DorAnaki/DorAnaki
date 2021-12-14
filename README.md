@@ -28,7 +28,7 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 
 
-[1]: <a class="u-email Link--primary " href="mailto:anakidor@gmail.com">anakidor@gmail.com</a>
+[1]:<a class="u-email Link--primary " href="mailto:anakidor@gmail.com">anakidor@gmail.com</a>
 [2]:https://www.linkedin.com/in/dor-anaki-596504201/
 [3]:https://www.python.org/
 [4]:https://www.mysql.com/
