@@ -13,7 +13,7 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 **Contact me at:**
 
-[![gmail](https://user-images.githubusercontent.com/91745514/145735096-19489817-86c1-4f98-88b9-ecf798668b50.png)][<a class="u-email Link--primary " href="mailto:anakidor@gmail.com">anakidor@gmail.com</a>]
+<a class="u-email Link--primary " href="mailto:anakidor@gmail.com">![gmail](https://user-images.githubusercontent.com/91745514/145735096-19489817-86c1-4f98-88b9-ecf798668b50.png)</a>
 [![linkedin](https://user-images.githubusercontent.com/91745514/145735097-cb00b25a-7a72-4368-8044-708e0bcb7c31.png)][2]
 
 
@@ -24,6 +24,9 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 [![java](https://user-images.githubusercontent.com/91745514/145735176-cce740e9-1316-442b-b282-92c76a6859d5.png)][5]
 [![scikit-learn](https://user-images.githubusercontent.com/91745514/145735211-4cb8beb1-1966-4316-9798-162babac274d.png)][6]
 [![tensorflow](https://user-images.githubusercontent.com/91745514/145735243-52da7352-e808-4fdd-aae5-1330d320c82d.png)][7]
+
+
+
 
 
 
