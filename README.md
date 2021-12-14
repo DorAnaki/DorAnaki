@@ -13,7 +13,7 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 **Contact me at:**
 
-[![gmail](https://user-images.githubusercontent.com/91745514/145735096-19489817-86c1-4f98-88b9-ecf798668b50.png)][1]
+[![gmail](https://user-images.githubusercontent.com/91745514/145735096-19489817-86c1-4f98-88b9-ecf798668b50.png)][<a class="u-email Link--primary " href="mailto:anakidor@gmail.com">anakidor@gmail.com</a>]
 [![linkedin](https://user-images.githubusercontent.com/91745514/145735097-cb00b25a-7a72-4368-8044-708e0bcb7c31.png)][2]
 
 
@@ -28,7 +28,7 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 
 
-[1]:<a class="u-email Link--primary " href="mailto:anakidor@gmail.com">anakidor@gmail.com</a>
+
 [2]:https://www.linkedin.com/in/dor-anaki-596504201/
 [3]:https://www.python.org/
 [4]:https://www.mysql.com/
