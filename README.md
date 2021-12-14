@@ -2,8 +2,6 @@
 
 
 
-### Hi there 👋
-
 
 I'm a Data Scientist and Data Analyst, passionate about bringing my teamwork skills and curiosity to deliver valuable business results. 
 
