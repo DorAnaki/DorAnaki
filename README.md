@@ -32,7 +32,7 @@ I'm searching for help in finding exciting high-tech job opportunities. If you r
 
 
 
-[2]:https://www.linkedin.com/in/dor-anaki-596504201/
+[2]:https://www.linkedin.com/in/dor-anaki/
 [3]:https://www.python.org/
 [4]:https://www.mysql.com/
 [5]:https://www.java.com/en/
